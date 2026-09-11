@@ -1,7 +1,9 @@
 #  Classificação Multiclasse MNIST & Análise de Generalização Extrema (OOD)
 
 > **Mini-Projeto Avaliativo - Módulo 2**  
-> **Curso:** Desenvolvimento de IA para Análise Preditiva  
+> **Curso:** Desenvolvimento de IA para Análise Preditiva
+> ** Aluna:** Thays Faleiro
+> ** Curso:** Análise prediativa SCTEC Senai/SC
 
 ---
 
