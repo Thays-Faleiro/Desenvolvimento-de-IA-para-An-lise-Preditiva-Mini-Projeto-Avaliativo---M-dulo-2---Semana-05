@@ -3,6 +3,8 @@
 > **Mini-Projeto Avaliativo - Módulo 2**  
 > **Curso:** Desenvolvimento de IA para Análise Preditiva
 > ** Aluna:** Thays Faleiro
+>
+> 
 > ** Curso:** Análise prediativa SCTEC Senai/SC
 
 ---
