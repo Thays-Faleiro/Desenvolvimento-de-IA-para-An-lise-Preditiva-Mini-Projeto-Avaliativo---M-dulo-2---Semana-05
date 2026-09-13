@@ -1,19 +1,19 @@
-# Classificação Multiclasse MNIST & Análise de Generalização Extrema (OOD)
+# Classificação multiclasse MNIST & análise de generalização extrema (OOD)
 
-**Mini-Projeto Avaliativo - Módulo 2**  
+**Mini-projeto avaliativo - Módulo 2**  
 **Curso:** Desenvolvimento de IA para Análise Preditiva  
 **Instituição:** Senai/SC (SCTEC)  
 **Autora:** Thays Faleiro  
 
 ---
 
-## Apresentação em Vídeo
+## Apresentação em vídeo
 
-🔗 **Link do Vídeo Demonstrativo (Google Drive):** [COLE_AQUI_O_LINK_DO_SEU_VIDEO_NO_GOOGLE_DRIVE]
+🔗 **Link do vídeo demonstrativo (Google Drive):** [COLE_AQUI_O_LINK_DO_SEU_VIDEO_NO_GOOGLE_DRIVE]
 
 ---
 
-## Visão Geral do Projeto
+## Visão geral do projeto
 
 Este projeto implementa um pipeline completo de Machine Learning e Deep Learning em Python para a classificação de dígitos manuscritos ($28 \times 28$ pixels em escala de cinza) utilizando o dataset benchmark **MNIST**.
 
@@ -21,7 +21,7 @@ O objetivo principal consiste em comparar algoritmos de aprendizado estatístico
 
 ---
 
-## Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e bibliotecas utilizadas
 
 - **Linguagem:** Python 3.10+
 - **Processamento de Dados:** NumPy, Pandas
@@ -32,7 +32,7 @@ O objetivo principal consiste em comparar algoritmos de aprendizado estatístico
 
 ---
 
-## Estrutura do Repositório
+## Estrutura do repositório
 
 ```text
 .
